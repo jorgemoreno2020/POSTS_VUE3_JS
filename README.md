@@ -1,6 +1,6 @@
 ## Example of course Udemy Vue
 
--[Preview Page] (https://segundo-proyecto-posts.netlify.app)
+- [Preview Page] (https://segundo-proyecto-posts.netlify.app/)
 
 This is an example of course that I've been working with components and Api 
 
